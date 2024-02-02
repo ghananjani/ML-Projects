@@ -1,4 +1,4 @@
-# Machine Learning Projects Repository
+# Data Analytics and Machine Learning Projects Repository
 
 Welcome to the Machine Learning Projects Repository! This repository is a dedicated space for showcasing a collection of machine learning projects, highlighting proficiency in various ML algorithms, frameworks, and real-world applications.
 
